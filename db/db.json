@@ -1,0 +1,82 @@
+{
+  "product-cards": [
+    {
+      "id": 1,
+      "title": "Nissan GT - R",
+      "type": "Sport",
+      "price": 99,
+      "image": ".././assets/niss.svg",
+      "color": "Grey",
+      "capacity": "2 people",
+      "oil-capacity": 80,
+      "mode": "Manual",
+      "quantity": 1,
+      "catalog": "Sport"
+    },
+    {
+      "id": 2,
+      "title": "Koenigsegg",
+      "type": "Sport",
+      "price": 99,
+      "image": ".././assets/kenig.svg",
+      "color": "White",
+      "capacity": "2 people",
+      "oil-capacity": 90,
+      "mode": "Manual",
+      "quantity": 1,
+      "catalog": "Sport"
+    },
+    {
+      "id": 3,
+      "title": "Rolls-Royce",
+      "type": "Sedan",
+      "price": 99,
+      "image": ".././assets/rols.svg",
+      "color": "Blue",
+      "capacity": "4 people",
+      "oil-capacity": 70,
+      "mode": "Auto",
+      "quantity": 1,
+      "catalog": ["Sedan", "SUV"]
+    },
+    {
+      "id": 4,
+      "title": "All New Rush",
+      "type": "SUV",
+      "price": 72,
+      "image": ".././assets/rush.svg",
+      "color": "Grey",
+      "capacity": "6 people",
+      "oil-capacity": 70,
+      "mode": "Auto",
+      "quantity": 1,
+      "catalog": ["Sedan", "SUV"]
+    },
+    {
+      "id": 5,
+      "title": "CR - V",
+      "type": "SUV",
+      "price": 71,
+      "image": ".././assets/crv.svg",
+      "color": "Grey",
+      "capacity": 6,
+      "oil-capacity": 80,
+      "mode": "Auto",
+      "quantity": 1,
+      "catalog": ["Sedan", "SUV"]
+    },
+    {
+      "id": 6,
+      "title": "MG ZX Excluice",
+      "type": "Hatchback",
+      "price": 76,
+      "image": ".././assets/mg.svg",
+      "color": "Grey",
+      "capacity": 4,
+      "oil-capacity": 70,
+      "mode": "Auto",
+      "quantity": 1,
+      "catalog": ["Sedan", "SUV"]
+    }
+  ]
+}
