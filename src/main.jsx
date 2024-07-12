@@ -13,31 +13,31 @@ import Payment from './pages/Payment.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/Morent",
     element: <App/>,
     children: [
       {
-        path: "sortpage",
+        path: "/Morent/sortpage",
         element: <Sortpage/>
       },
       {
-        path: "home",
+        path: "/Morent/home",
         element: <Home/>
       },
       {
-        path: "detailnis",
+        path: "/Morent/detailnis",
         element: <DetailNis/>
       },
       {
-        path: "detailken",
+        path: "/Morent/detailken",
         element: <DetailKen/>
       },
       {
-        path: "detailrols",
+        path: "/Morent/detailrols",
         element: <DetailRols/>
       },
       {
-        path: "payment",
+        path: "/Morent/payment",
         element: <Payment/>
       },
     ]

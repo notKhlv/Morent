@@ -286,7 +286,7 @@ const Sortpage = () => {
 
                   <Link
                     type="button"
-                    to={"/detailKen"}
+                    to={"/Morent/detailKen"}
                     className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                     Rent Now
@@ -333,7 +333,7 @@ const Sortpage = () => {
 
                   <Link
                     type="button"
-                    to={"/detailNis"}
+                    to={"/Morent/detailNis"}
                     className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                     Rent Now
@@ -379,7 +379,7 @@ const Sortpage = () => {
 
                   <Link
                     type="button"
-                    to={"/detailrols"}
+                    to={"/Morent/detailrols"}
                     className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                     Rent Now
@@ -426,7 +426,7 @@ const Sortpage = () => {
 
                   <Link
                     type="button"
-                    to={"/detailNis"}
+                    to={"/Morent/detailNis"}
                     className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                     Rent Now
@@ -472,7 +472,7 @@ const Sortpage = () => {
 
                   <Link
                     type="button"
-                    to={"/detailNis"}
+                    to={"/Morent/detailNis"}
                     className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                     Rent Now
@@ -519,7 +519,7 @@ const Sortpage = () => {
 
                   <Link
                     type="button"
-                    to={"/detailNis"}
+                    to={"/Morent/detailNis"}
                     className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                     Rent Now

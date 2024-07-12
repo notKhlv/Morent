@@ -29,7 +29,7 @@ const header = () => {
     <nav className="w-full h-124px flex items-start bg-white ">
       <div className="flex items-center">
         <Link
-          to={"home"}
+          to={"/Morent/home"}
           className="text-[#3563E9] uppercase pt-6 pb-6 pl-10 font-semibold text-xl"
         >
           MORENt

@@ -24,13 +24,11 @@ import DetailKen from "./DetailKen";
 const Home = () => {
   return (
     <Fragment>
-
-    
     <Main/>
     <section className="bg-[#F6F7F9]">
       <div className="flex justify-between pr-18  pb-[35px] bg-[#F6F7F9] px-16">
         <p className='text-[#90A3BF]  font-"Plus Jakarta Sans"'>Popular Car</p>
-        <Link to={"/sortpage"} className="text-semibold text-[#3563E9]">
+        <Link to={"/Morent/Morent/sortpage"} className="text-semibold text-[#3563E9]">
           View All
         </Link>
       </div>
@@ -74,7 +72,7 @@ const Home = () => {
 
                 <Link
                   type="button"
-                  to={"/detailken"}
+                  to={"/Morent/detailken"}
                   className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                   Rent Now
@@ -123,7 +121,7 @@ const Home = () => {
 
                 <Link
                   type="button"
-                  to={"/detailnis"}
+                  to={"/Morent/detailnis"}
                   className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                   Rent Now
@@ -171,7 +169,7 @@ const Home = () => {
 
                 <Link
                   type="button"
-                  to={"/detailrols"}
+                  to={"/Morent/detailrols"}
                   className="p-2 w-[116px] text-center h-auto bg-[#3563E9] hover:bg-[#6969c5] ease-linear duration-300 text-white rounded-[5px] ml-[38px]"
                   >
                   Rent Now

@@ -222,7 +222,7 @@ const DetailNis = () => {
             <p className="mt-16 ml-1 text-sm text-[#90A3BF]">days</p>
             <Link
               type="button"
-              to={"/payment"}
+              to={"/Morent/payment"}
               className="bg-[#3563E9] hover:bg-[#6589f6] active:bg-[#3563E9] active:scale-95 ease-linear duration-300 h-[45px] flex items-center px-5 text-white rounded-[6px] mt-14 ml-[210px]"
             >
               Rent Now
