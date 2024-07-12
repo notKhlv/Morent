@@ -28,7 +28,7 @@ const Home = () => {
     <section className="bg-[#F6F7F9]">
       <div className="flex justify-between pr-18  pb-[35px] bg-[#F6F7F9] px-16">
         <p className='text-[#90A3BF]  font-"Plus Jakarta Sans"'>Popular Car</p>
-        <Link to={"/Morent/Morent/sortpage"} className="text-semibold text-[#3563E9]">
+        <Link to={"/Morent/sortpage"} className="text-semibold text-[#3563E9]">
           View All
         </Link>
       </div>
